@@ -43,6 +43,6 @@ The next 3 t.test we use subsets for each manufacturing lot to determine if the 
  - The null : the means of all groups are equal. 
  - The alternative : at least one of the means is different from all other groups.
  
-- If we find a p-value that is smaller then our significance level then we can reject the null hypothesis and we can claim there is significant  differences in mpgs,costs between the manufactures. Therefore the MechaCar will fair good.
+- If we find a p-value that is smaller then our significance level then we can reject the null hypothesis and we can claim there is significant  differences in mpgs,costs between the manufactures. Therefore the MechaCar will be good.
 
 
