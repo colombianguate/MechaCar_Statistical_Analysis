@@ -12,4 +12,9 @@ The slope of the linear model is not a zero because or p-value is 5.35e-11 is sm
 
 The linear model doesn't predict mpg of MechaCar Prototypes effectively because of the lack of significant variables.
 
+### Summary Statistics on Suspension Coils
+
+![line_image](resources/total_summary.png)
+The second analysis we look look into the PSI.
+
 
