@@ -22,6 +22,14 @@ From the summary we can see the only lot that exceeds variance of the suspension
 
 ## T-Tests on Suspension Coils
 
-![line_image](resources/single_test)
+![line_image](resources/single_test.png)
 
-![line_image](resources/lots_ttest)
+From our first t.test, with a p-value of 1 the PSI across all manufacturing lots is not statistically different from the population mean of 1,500.
+
+![line_image](resources/lots_ttest.png)
+
+The next 3 t.test we use subsets for each manufacturing lot to determine if the PSI is statistically different from the population mean of 1,500. Similary as our first test test we get a p-value of 1 in which case there is no statistic difference.
+
+
+
+
