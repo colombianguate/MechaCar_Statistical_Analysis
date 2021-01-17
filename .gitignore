@@ -1,2 +1,3 @@
 ## ignore rhistory as it is too much noise
 .Rhistory
+.RData
