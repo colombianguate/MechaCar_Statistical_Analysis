@@ -14,7 +14,10 @@ The linear model doesn't predict mpg of MechaCar Prototypes effectively because 
 
 ### Summary Statistics on Suspension Coils
 
-![line_image](resources/total_summary.png)
+![line_image](resources/lot_summary.png)
+
 The second analysis we look look into the PSI.
+
+From the summary we can see the only lot that exceeds variance of the suspension coils by 100 PSI is lot 3. In that case lot 3 does not meet the manufacturing data. 
 
 
