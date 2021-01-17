@@ -8,3 +8,6 @@ sus_coil <- read.csv('Suspension_Coil.csv')
 total_summary <- sus_coil %>% summarise(Mean = mean(PSI), Median = median(PSI), Variance = var(PSI), SD = sd(PSI), .groups =  'keep' )
 
 lot_summary <- sus_coil %>% group_by(Manufacturing_Lot) %>% summarise(Mean = mean(PSI), Median = median(PSI), Variance = var(PSI), SD = sd(PSI), .groups =  'keep' )
+
+
+t.test(sus_coil$PSI,mu=mean(sus_coil$PSI))
